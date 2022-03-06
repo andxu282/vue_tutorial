@@ -48,7 +48,7 @@
         const newEmployee = { ...employee, id };
         this.employees = [...this.employees, newEmployee]
       }
-    }
+    },
   }
 </script>
 
